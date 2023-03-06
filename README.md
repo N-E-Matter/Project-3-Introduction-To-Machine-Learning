@@ -1,4 +1,4 @@
-# Project-3-Tariff-Recommendation  
+# Project-3 Introduction To Machine Learning   
 Data Science project work during the Yandex Practicum  
 Project #3  
 
